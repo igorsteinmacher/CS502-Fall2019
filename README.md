@@ -1,13 +1,17 @@
 # INF 502: Software Development Methodologies
 
-Course content for the Fall 2019 offering of INF 502 at Northern Arizona University.
+Course content for the offering of INF 502 at Northern Arizona University.
 
+<!--
 * **Meeting time:** TuTh 2:20PM - 3:35PM (Bldg 90 - 102)
 * **Instructor:** Igor Steinmacher
+-->
 
 ## Office hours
+<!--
 * My office hours are on Mondays 1:30pm-3:00pm and Wednesdays 9:00am-10:30am
 * Easier: you can reach me on our Slack channel and make this a more interactive course. [Join our slack Channel](https://join.slack.com/t/inf502-fall2019/shared_invite/enQtNzI1NDAyMDY2NzY5LWY2MDZkMDUxODlkMGY2NzdhMWMwZjkzMGFiOTU3MDY5YWI0ZDBjOWU2ZGJlMTY4ZDQwZmRiZWQ4YWNkMTUyNDY)
+-->
 
 ## Important dates
 
